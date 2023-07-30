@@ -1,0 +1,8 @@
+.clrBtns {
+  min-height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+.colorpicker{
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+
+}
+
+.displayBox {
+   
+    width: 25em;
+    height: 20em;
+    border: 2px solid black;
+    border-radius: 12px;
+}
